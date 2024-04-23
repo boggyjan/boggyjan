@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Japanese.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boggyjan&show_icons=true&theme=merko)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=boggyjan)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=boggyjan)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
