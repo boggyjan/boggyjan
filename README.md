@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Japanese.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boggyjan&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boggyjan&layout=donut)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boggyjan&layout=donut&theme=merko)
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
